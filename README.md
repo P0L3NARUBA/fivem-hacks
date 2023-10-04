@@ -16,3 +16,4 @@ Decryption Key: Nwz6HamPhA42b_iO24KzZ4eoAivBc7OkbXx2HxC9G3g
 * Aimlock `Put this file to FiveM\mods Directory, if there is not a folder with that name create one.`
 
 Gameplay Video :
+{% include youtube.html id="mjDBC0EjSGQ" %}
