@@ -15,5 +15,4 @@ Decryption Key: Nwz6HamPhA42b_iO24KzZ4eoAivBc7OkbXx2HxC9G3g
 * x64a.rpf `Put this hacked file to GTA5 Directory, dont forget the backup the original file.`
 * Aimlock `Put this file to FiveM\mods Directory, if there is not a folder with that name create one.`
 
-Gameplay Video :
-{% include youtube.html id="mjDBC0EjSGQ" %}
+Gameplay Video : https://www.youtube.com/watch?v=mjDBC0EjSGQ
